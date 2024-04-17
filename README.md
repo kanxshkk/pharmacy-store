@@ -1,5 +1,6 @@
-Online Medicine Shop Project in JSP Mysql Netbeans
-Online Medicine Shop Project in JSP Mysql. online Pharmacy  shop project in JSP Mysql Netbeans. This project is a web application which is developed in Java JSP Mysql. 
+
+Online Medicine Shop Project in JSP Mysql.
+This project is a web application which is developed in Java JSP Mysql. 
 Work on the Sales Reporting And Management System-Pharma project to enhance the growth of pharma employees/ companies.  
 this project is to develop an online web portal that can handle product information, can booking from distributors very fast from all over the world and online payment for orders and customer support for distributors.
 This type of application will atomize the procedure of drug supply through the Pharmaceuticals Company and improve business standards and customer relationships. 
